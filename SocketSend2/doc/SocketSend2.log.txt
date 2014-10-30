@@ -1,0 +1,82 @@
+3:36 AM: Logging started 5/18/10
+3:44 AM: Logging started 5/18/10
+3:48 AM: Logging started 5/18/10
+3:56 AM: Logging started 5/18/10
+4:01 AM: Logging started 5/18/10
+4:02 AM: btnTransmit_Click: textlength==0
+4:31 AM: Logging started 5/18/10
+4:33 AM: Logging started 5/18/10
+4:35 AM: Logging started 5/18/10
+4:36 AM: Logging started 5/18/10
+4:40 AM: Logging started 5/18/10
+4:43 AM: Logging started 5/18/10
+4:44 AM: btnTransmit_Click: textlength<=minLength(24)
+4:51 AM: Logging started 5/18/10
+4:51 AM: btnTransmit_Click: textlength<=minLength(24)
+4:51 AM: btnTransmit_Click: textlength==0
+4:58 AM: Logging started 5/18/10
+4:58 AM: btnTransmit_Click: textlength==0
+4:58 AM: btnTransmit_Click: textlength==0
+5:06 AM: Logging started 5/18/10
+5:06 AM: Transmit OK for '00112233445566778899AABB' return code=1910000
+5:06 AM: ...Transmit has been confirmed by user
+5:11 AM: Logging started 5/18/10
+5:12 AM: Logging started 5/18/10
+5:12 AM: btnTransmit_Click: textlength==0
+5:13 AM: Logging started 5/18/10
+5:15 AM: Logging started 5/18/10
+5:15 AM: Transmit OK for '00112233445566778899AABB' return code=0x1910000
+5:15 AM: ...Transmit has been confirmed by user
+5:15 AM: btnTransmit_Click: textlength==0
+5:15 AM: Transmit OK for '123456789012345678901234' return code=0x1910000
+5:15 AM: ...Transmit has been confirmed by user
+5:16 AM: btnTransmit_Click: textlength==0
+5:16 AM: btnTransmit_Click: textlength==0
+5:16 AM: btnTransmit_Click: textlength==0
+5:16 AM: btnTransmit_Click: textlength==0
+5:16 AM: btnTransmit_Click: textlength==0
+5:22 AM: Logging started 5/18/10
+5:22 AM: Transmit failed for '00112233445566778899AABB' with error code=0xc1910019
+5:22 AM: ...user decided to possibly transmit again
+5:22 AM: Transmit failed for '00112233445566778899AABB' with error code=0xc1910019
+5:22 AM: ...user declined to transmit again
+5:22 AM: btnTransmit_Click: textlength==0
+5:33 AM: Logging started 5/18/10
+5:33 AM: Transmit failed for '00112233445566778899AABB' with error code=0xc1910019
+5:33 AM: ...user decided to possibly transmit again
+5:34 AM: Transmit failed for '00112233445566778899AABB' with error code=0xc1910019
+5:34 AM: ...user decided to possibly transmit again
+5:40 AM: Logging started 5/18/10
+5:40 AM: Transmit failed for '00112233445566778899AABB' with error code=0xc1910019
+5:40 AM: ...user decided to possibly transmit again
+6:06 AM: Logging started 5/18/10
+6:08 AM: Logging started 5/18/10
+6:08 AM: Transmit failed for '00112233445566778899AABB' with error code=0xc1910019
+6:08 AM: ...user decided to possibly transmit again
+6:09 AM: Logging started 5/18/10
+6:11 AM: Logging started 5/18/10
+6:13 AM: Logging started 5/18/10
+6:15 AM: Logging started 5/18/10
+6:22 AM: Logging started 5/18/10
+6:27 AM: Logging started 5/18/10
+6:29 AM: Logging started 5/18/10
+6:30 AM: Logging started 5/18/10
+6:32 AM: Logging started 5/18/10
+6:32 AM: Transmit OK for '00112233445566778899AABB' return code=0x1910000
+6:32 AM: ...Transmit has been confirmed by user
+6:33 AM: Transmit OK for '44444444444444444444444444' return code=0x1910000
+6:33 AM: ...Transmit has been confirmed by user
+7:32 AM: Logging started 5/18/10
+7:34 AM: Logging started 5/18/10
+7:37 AM: Logging started 5/18/10
+7:40 AM: Logging started 5/18/10
+7:42 AM: Logging started 5/18/10
+7:43 AM: Transmit OK for '00112233445566778899AABB' return code=0x1910000
+7:43 AM: ...Transmit has been confirmed by user
+7:43 AM: btnTransmit_Click: textlength==0
+7:43 AM: Logging started 5/18/10
+7:46 AM: Transmit OK for '00112233445566778899AABB' return code=0x1910000
+7:47 AM: ...Transmit has been confirmed by user
+7:47 AM: btnTransmit_Click: textlength==0
+7:47 AM: Transmit OK for '1234567890123456789012340' return code=0x1910000
+7:47 AM: ...Transmit has NOT been confirmed by user
